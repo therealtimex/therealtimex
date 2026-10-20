@@ -13,6 +13,6 @@ Give AI agents a shared workspace to plan, use terminals and browsers, coordinat
 - [X](https://x.com/RealTimeXai)
 - [Facebook Page](https://www.facebook.com/realtimexai)
 - [Facebook community](https://www.facebook.com/groups/1155639393637692)
-- [Discord community](https://discord.gg/Jh5uwZVyYv)
+- [Discord community](https://discord.com/invite/wWGqAjFcCz)
 
 Ask about a concrete workflow, share what you tried, and include the result you want. Keep private data, credentials and customer information out of public screenshots and issues.
